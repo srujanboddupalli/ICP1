@@ -1,0 +1,45 @@
+A neural network is a method in artificial intelligence that teaches computers to process
+ data in a way that is inspired by the human brain. It is a type of machine learning process,
+  called deep learning, that uses interconnected nodes or neurons in a layered structure that
+   resembles the human brain
+
+Word_Count:
+A: 1
+neural: 1
+network: 1
+is: 3
+a: 4
+method: 1
+in: 3
+artificial: 1
+intelligence: 1
+that: 4
+teaches: 1
+computers: 1
+to: 1
+process: 1
+data: 1
+way: 1
+inspired: 1
+by: 1
+the: 2
+human: 2
+brain.: 1
+It: 1
+type: 1
+of: 1
+machine: 1
+learning: 1
+process,: 1
+called: 1
+deep: 1
+learning,: 1
+uses: 1
+interconnected: 1
+nodes: 1
+or: 1
+neurons: 1
+layered: 1
+structure: 1
+resembles: 1
+brain: 1
